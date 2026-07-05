@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi, I'm Abdullah Rasheed 👋</h1>
 <h3 align="center">AI/ML Engineering Student | Building practical, project-driven ML systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+FAST+NUCES+Islamabad;ML+Engineering+Intern+%40+FlyRank+AI;Learning+PyTorch%2C+NLP%2C+RAG+%26+AI+Agents;Turning+algorithms+into+working+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+FAST+NUCES+Islamabad;ML+Engineering+Intern+%40+FlyRank+AI;Turning+algorithms+into+working+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +12,6 @@
 - 🎓 Final year Computer Science undergraduate at **FAST NUCES, Islamabad** (Batch 2023–2027), specializing in **AI & Machine Learning**
 - 💼 Currently a part-time **ML Engineering Intern** at **FlyRank AI**
 - 🧠 Focused on building practical, end-to-end ML systems — from classical algorithms to modern NLP and LLM-based agents
-- 🏗️ Strong systems programming foundation: OS internals, IPC, multithreading, compilers, and networking
 - 📈 Currently working through a structured self-study roadmap covering scikit-learn, PyTorch, Transformers, RAG, and AI Agents
 
 ---
@@ -21,13 +19,12 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,c,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,mysql,git,github,vscode" />
 </p>
 
-**Languages:** Python, C++, SQL
-**ML/AI:** scikit-learn, PyTorch, NLP fundamentals, Transformers (learning), RAG (learning)
-**Systems:** Multithreading, IPC, Process Scheduling, Compilers (Flex/Bison)
-**Tools:** Git, Docker
+**Languages:** Python, SQL
+**AI/ML:** scikit-learn, PyTorch, NLP fundamentals, Transformers (learning), RAG (learning)
+**Tools:** Git, GitHub, Jupyter Notebook
 
 ---
 
@@ -68,17 +65,4 @@
   </a>
 </p>
 
-<p align="center"><i>Open to AI/ML engineering internships and collaborative projects.</i></p><!--
-**AbdullahRasheed452/AbdullahRasheed452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>Open to AI/ML engineering internships and collaborative projects.</i></p>
