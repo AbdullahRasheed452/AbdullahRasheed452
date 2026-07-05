@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi, I'm Abdullah Rasheed 👋</h1>
 <h3 align="center">AI/ML Engineering Student | Building practical, project-driven ML systems</h3>
