@@ -42,7 +42,7 @@
 
   <style>
     .text-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 16px; fill: #F0F6FC; }
-    .text-subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 12px; fill: #38BDF8; letter-spacing: 0.5px; }
+    .text-subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 11px; fill: #38BDF8; letter-spacing: 0.6px; }
     .text-date { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 11px; fill: #8B949E; }
     .text-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 13px; fill: #C9D1D9; line-height: 1.4; }
     .text-tech { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 11px; fill: #7DD3FC; }
@@ -71,8 +71,8 @@
   <rect width="850" height="1480" rx="16" fill="url(#bg-grad)" stroke="#30363D" stroke-width="1.5" />
 
   <!-- Section Header Inside SVG -->
-  <text x="45" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="20" fill="#F0F6FC" letter-spacing="-0.3">Engineering Evolution</text>
-  <text x="45" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="13" fill="#8B949E">From Systems Architecture &amp; Data Structures to Applied AI &amp; Machine Learning</text>
+  <text x="45" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="20" fill="#F0F6FC" letter-spacing="-0.3">Project Timeline</text>
+  <text x="45" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="13" fill="#8B949E">Engineering Progression &amp; Key System Milestones</text>
 
   <!-- Vertical Timeline Spine -->
   <line x1="90" y1="120" x2="90" y2="1280" stroke="url(#spine-grad)" stroke-width="3" />
@@ -87,8 +87,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">Game Boy Emulator</text>
-    <rect x="330" y="17" width="145" height="20" rx="10" fill="#0C4A6E" />
-    <text x="340" y="31" class="text-subtitle">SOFTWARE ARCHITECTURE</text>
+    <rect x="325" y="15" width="195" height="22" rx="11" fill="#0C4A6E" />
+    <text x="337" y="30" class="text-subtitle">SOFTWARE ARCHITECTURE</text>
     <text x="730" y="31" class="text-date">LATE 2024</text>
     <text x="155" y="58" class="text-body">Mastered object-oriented programming principles, encapsulation, and persistent state profiling.</text>
     <rect x="155" y="68" width="55" height="18" rx="4" fill="#1E293B" />
@@ -103,8 +103,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">Xonix Game Engine</text>
-    <rect x="325" y="17" width="165" height="20" rx="10" fill="#0C4A6E" />
-    <text x="335" y="31" class="text-subtitle">ADVANCED DATA STRUCTURES</text>
+    <rect x="325" y="15" width="235" height="22" rx="11" fill="#0C4A6E" />
+    <text x="337" y="30" class="text-subtitle">ADVANCED DATA STRUCTURES</text>
     <text x="735" y="31" class="text-date">MID 2025</text>
     <text x="155" y="58" class="text-body">Implemented Min-Heap leaderboards, priority queues, hash-table social graphs, and AVL trees.</text>
     <rect x="155" y="68" width="55" height="18" rx="4" fill="#1E293B" />
@@ -119,8 +119,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">CureShare Medicine System</text>
-    <rect x="385" y="17" width="130" height="20" rx="10" fill="#0C4A6E" />
-    <text x="395" y="31" class="text-subtitle">SYSTEM DESIGN</text>
+    <rect x="390" y="15" width="145" height="22" rx="11" fill="#0C4A6E" />
+    <text x="402" y="30" class="text-subtitle">SYSTEM DESIGN</text>
     <text x="715" y="31" class="text-date">EARLY 2026</text>
     <text x="155" y="58" class="text-body">Multi-role desktop platform with FIFO allocation logic, inventory alerts, and analytics dashboards.</text>
     <rect x="155" y="68" width="55" height="18" rx="4" fill="#1E293B" />
@@ -135,8 +135,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">Warehouse Optimization</text>
-    <rect x="360" y="17" width="175" height="20" rx="10" fill="#0C4A6E" />
-    <text x="370" y="31" class="text-subtitle">EVOLUTIONARY COMPUTING</text>
+    <rect x="365" y="15" width="215" height="22" rx="11" fill="#0C4A6E" />
+    <text x="377" y="30" class="text-subtitle">EVOLUTIONARY COMPUTING</text>
     <text x="730" y="31" class="text-date">FEB 2026</text>
     <text x="155" y="58" class="text-body">Applied genetic algorithms (selection, crossover, mutation) for distance minimization and fitness analysis.</text>
     <rect x="155" y="68" width="65" height="18" rx="4" fill="#1E293B" />
@@ -151,8 +151,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">Stochastic Battlefield</text>
-    <rect x="330" y="17" width="100" height="20" rx="10" fill="#0C4A6E" />
-    <text x="340" y="31" class="text-subtitle">GAME AI</text>
+    <rect x="335" y="15" width="95" height="22" rx="11" fill="#0C4A6E" />
+    <text x="347" y="30" class="text-subtitle">GAME AI</text>
     <text x="725" y="31" class="text-date">MAR 2026</text>
     <text x="155" y="58" class="text-body">Designed multi-agent stochastic decision models using Expectiminimax and Alpha-Beta pruning.</text>
     <rect x="155" y="68" width="65" height="18" rx="4" fill="#1E293B" />
@@ -169,8 +169,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">Quiz Generation System</text>
-    <rect x="350" y="17" width="170" height="20" rx="10" fill="#0C4A6E" />
-    <text x="360" y="31" class="text-subtitle">CLASSICAL MACHINE LEARNING</text>
+    <rect x="360" y="15" width="265" height="22" rx="11" fill="#0C4A6E" />
+    <text x="372" y="30" class="text-subtitle">CLASSICAL MACHINE LEARNING</text>
     <text x="725" y="31" class="text-date">APR 2026</text>
     <text x="155" y="58" class="text-body">Trained Logistic Regression and SVM on RACE dataset TF-IDF vectors with cosine similarity distractors.</text>
     <rect x="155" y="68" width="65" height="18" rx="4" fill="#1E293B" />
@@ -187,8 +187,8 @@
     <circle cx="90" cy="35" r="7" class="node-past" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="url(#card-grad)" stroke="#30363D" stroke-width="1" />
     <text x="155" y="32" class="text-title">VoiceFlow AI</text>
-    <rect x="270" y="17" width="165" height="20" rx="10" fill="#0C4A6E" />
-    <text x="280" y="31" class="text-subtitle">REAL-TIME SPEECH &amp; NLP</text>
+    <rect x="275" y="15" width="215" height="22" rx="11" fill="#0C4A6E" />
+    <text x="287" y="30" class="text-subtitle">REAL-TIME SPEECH &amp; NLP</text>
     <text x="725" y="31" class="text-date">JUN 2026</text>
     <text x="155" y="58" class="text-body">Real-time speech-to-speech translation pipeline integrating Web Speech ASR, NLP translation, and gTTS.</text>
     <rect x="155" y="68" width="65" height="18" rx="4" fill="#1E293B" />
@@ -207,8 +207,8 @@
     <circle cx="90" cy="35" r="9" class="node-active" />
     <rect x="130" y="5" width="670" height="98" rx="10" fill="url(#active-card-grad)" stroke="#38BDF8" stroke-width="1.5" filter="url(#glow)" />
     <text x="155" y="32" class="text-title" font-size="17" fill="#7DD3FC">ResumeIQ System</text>
-    <rect x="315" y="17" width="175" height="20" rx="10" fill="#0284C7" />
-    <text x="325" y="31" class="text-subtitle" fill="#FFFFFF">SEMANTIC ML ENGINEERING</text>
+    <rect x="325" y="15" width="235" height="22" rx="11" fill="#0284C7" />
+    <text x="337" y="30" class="text-subtitle" fill="#FFFFFF">SEMANTIC ML ENGINEERING</text>
     <text x="705" y="31" class="text-date" fill="#7DD3FC" font-weight="700">ACTIVE PROJECT</text>
     <text x="155" y="58" class="text-body" fill="#E0F2FE">End-to-end resume scoring, feature engineering schema design, and semantic document matching.</text>
     <rect x="155" y="68" width="65" height="18" rx="4" fill="#0C4A6E" />
@@ -225,8 +225,8 @@
     <circle cx="90" cy="35" r="7" class="node-future" />
     <rect x="130" y="5" width="670" height="95" rx="10" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 4" />
     <text x="155" y="32" class="text-title" fill="#94A3B8">Next Horizon: Production AI</text>
-    <rect x="390" y="17" width="145" height="20" rx="10" fill="#1E293B" />
-    <text x="400" y="31" class="text-subtitle" fill="#94A3B8">FUTURE ROADMAP</text>
+    <rect x="390" y="15" width="160" height="22" rx="11" fill="#1E293B" />
+    <text x="402" y="30" class="text-subtitle" fill="#94A3B8">FUTURE ROADMAP</text>
     <text x="715" y="31" class="text-date" fill="#64748B">2026 &amp; BEYOND</text>
     <text x="155" y="58" class="text-body" fill="#94A3B8">Deepening focus on Large Language Models, RAG system design, and production MLOps pipelines.</text>
     <rect x="155" y="68" width="95" height="18" rx="4" fill="#0F172A" stroke="#334155" stroke-width="1" />
