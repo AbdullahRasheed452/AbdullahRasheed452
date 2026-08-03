@@ -28,7 +28,7 @@
 <br>
 
 <a href="https://github.com/AbdullahRasheed452">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=440&height=25&lines=ml+systems+%C2%B7+classical+ml+%C2%B7+nlp;python+%C2%B7+scikit-learn+%C2%B7+pytorch" alt="Focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&height=25&lines=machine+learning+%C2%B7+deep+learning+%C2%B7+agentic+ai;python+%C2%B7+scikit-learn+%C2%B7+pytorch" alt="Focus areas" />
 </a>
 
 </div>
