@@ -127,17 +127,19 @@ Final-year Computer Science student at FAST NUCES, Islamabad.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,flask,git,cpp,java,mysql,github,vscode&theme=dark&perline=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,flask,git,cpp,java,mysql,github,vscode&theme=light&perline=5">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,flask,git,cpp,java,mysql,github,vscode&theme=dark&perline=5" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,sklearn,flask,mysql,git,github,vscode&theme=dark&perline=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,sklearn,flask,mysql,git,github,vscode&theme=light&perline=5">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,sklearn,flask,mysql,git,github,vscode&theme=dark&perline=5" alt="Tech Stack" />
 </picture>
 
 <br><br>
 
 <sub>
-  <b>ML & Data:</b> NumPy · Pandas · Seaborn · Streamlit · TF-IDF
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Other:</b> Jupyter · HTML/CSS · Android Studio
+  <b>Languages:</b> Python · C++ · Java · HTML · CSS · JavaScript · SQL
+  <br>
+  <b>ML & Frameworks:</b> PyTorch · scikit-learn · Flask · NumPy · Pandas · Seaborn · Streamlit
+  <br>
+  <b>Tools & Databases:</b> MySQL · Git · GitHub · VS Code · Jupyter · Android Studio
 </sub>
 
 </div>
