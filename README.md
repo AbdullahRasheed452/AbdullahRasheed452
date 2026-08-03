@@ -47,65 +47,173 @@ Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.f
 <br>
 
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════
-  
-  Each project card contains:
-    - Name (linked to repo if public)
-    - Domain tag
-    - One-paragraph description
-    - Tech stack as inline code
-
-  To add a new project: copy a <td> block, edit the content,
-  and place it in the grid. Keep descriptions under 40 words.
-  
--->
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 ## Featured Projects
 
-<table>
+<!-- 1. FLAGSHIP HERO CARD: VoiceFlow AI -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
+    <td bgcolor="#161B22" style="border: 1px solid #30363D; border-radius: 12px; padding: 24px;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left">
+            <span style="font-size: 11px; font-weight: 700; color: #38BDF8; letter-spacing: 0.5px; background: #0C4A6E; padding: 4px 10px; border-radius: 12px;">FLAGSHIP SHOWCASE</span>
+            &ensp;
+            <span style="font-size: 11px; font-weight: 700; color: #34D399; background: #064E3B; padding: 4px 10px; border-radius: 12px;">● Active</span>
+          </td>
+          <td align="right">
+            <span style="font-size: 12px; color: #8B949E; font-weight: 600;">Speech AI &amp; Real-Time NLP</span>
+          </td>
+        </tr>
+      </table>
       <br>
-      <b>VoiceFlow AI</b> &ensp;<sub>NLP · Speech</sub>
-      <br><br>
-      Real-time speech-to-speech translation. Captures voice via Web Speech API, translates through an NLP backend, and outputs natural spoken audio using neural text-to-speech.
-      <br><br>
-      <code>Python</code> <code>Flask</code> <code>Web Speech API</code> <code>gTTS</code>
-      <br><br>
-    </td>
-    <td width="50%" valign="top">
+      <h3 align="left" style="margin: 0; color: #F0F6FC; font-size: 20px;">VoiceFlow AI</h3>
+      <p align="left" style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin-top: 8px;">
+        Real-time speech-to-speech translation pipeline. Captures live voice via the Web Speech API, processes contextual translation through a Flask NLP backend, and synthesizes natural spoken output in the target language using neural text-to-speech (gTTS).
+      </p>
       <br>
-      <a href="https://github.com/AbdullahRasheed452/Intelligent-Reading-Comprehension-Quiz-Generator"><b>Quiz Generation System</b></a> &ensp;<sub>Classical ML</sub>
-      <br><br>
-      Trained Logistic Regression, SVM, and Naive Bayes on TF-IDF vectors from the RACE dataset. Cosine-similarity distractor pipeline deployed as a Streamlit app with analytics.
-      <br><br>
-      <code>Python</code> <code>scikit-learn</code> <code>TF-IDF</code> <code>Streamlit</code>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/main/assets/voiceflow-preview.svg?v=1" width="100%" alt="VoiceFlow AI Architecture Preview" />
+      </div>
       <br>
-      <b>Stochastic Battlefield</b> &ensp;<sub>Game AI</sub>
-      <br><br>
-      Multi-agent stochastic game with three asymmetric AI agents using configurable-depth Expectiminimax search and Alpha-Beta pruning. Real-time benchmarking via DearPyGui.
-      <br><br>
-      <code>Python</code> <code>Expectiminimax</code> <code>Alpha-Beta Pruning</code> <code>DearPyGui</code>
-      <br><br>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <b>Warehouse Optimization</b> &ensp;<sub>Evolutionary Computing</sub>
-      <br><br>
-      Genetic algorithm for warehouse layout optimization targeting minimal retrieval distance. Benchmarked convergence across population sizes and mutation rates.
-      <br><br>
-      <code>Python</code> <code>Genetic Algorithms</code>
-      <br><br>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left">
+            <code>Python</code> &nbsp; <code>Flask</code> &nbsp; <code>Web Speech ASR</code> &nbsp; <code>gTTS</code> &nbsp; <code>NLP</code>
+          </td>
+          <td align="right">
+            <a href="https://github.com/AbdullahRasheed452?tab=repositories"><b>View All Repositories →</b></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
-> <sub>See all repositories → <a href="https://github.com/AbdullahRasheed452?tab=repositories">github.com/AbdullahRasheed452</a></sub>
+<br>
+
+<!-- 2. SECONDARY BENTO GRID CARDS -->
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
+
+  <!-- ROW 1: Quiz Generator & ResumeIQ -->
+  <tr>
+    <td width="50%" bgcolor="#161B22" valign="top" style="border: 1px solid #30363D; border-radius: 12px; padding: 18px;">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><span style="font-size: 10px; font-weight: 700; color: #38BDF8; background: #0C4A6E; padding: 3px 8px; border-radius: 10px;">CLASSICAL ML</span></td>
+          <td align="right"><span style="font-size: 10px; font-weight: 700; color: #34D399; background: #064E3B; padding: 3px 8px; border-radius: 10px;">● Completed</span></td>
+        </tr>
+      </table>
+      <br>
+      <b><a href="https://github.com/AbdullahRasheed452/Intelligent-Reading-Comprehension-Quiz-Generator" style="color: #F0F6FC; font-size: 15px;">Reading Comprehension &amp; Quiz Generator</a></b>
+      <br><br>
+      <p style="color: #C9D1D9; font-size: 13px; line-height: 1.4; margin: 0;">
+        Automated question generation system on the RACE dataset. Evaluated Logistic Regression, SVM, and Naive Bayes classifiers on TF-IDF vectors, integrated with a cosine similarity distractor engine and Streamlit analytics UI.
+      </p>
+      <br>
+      <code>Python</code> &nbsp; <code>scikit-learn</code> &nbsp; <code>TF-IDF</code> &nbsp; <code>Streamlit</code>
+      <br><br>
+      <a href="https://github.com/AbdullahRasheed452/Intelligent-Reading-Comprehension-Quiz-Generator"><b>GitHub Repository →</b></a>
+    </td>
+
+    <td width="50%" bgcolor="#161B22" valign="top" style="border: 1px solid #30363D; border-radius: 12px; padding: 18px;">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><span style="font-size: 10px; font-weight: 700; color: #38BDF8; background: #0C4A6E; padding: 3px 8px; border-radius: 10px;">SEMANTIC ML</span></td>
+          <td align="right"><span style="font-size: 10px; font-weight: 700; color: #34D399; background: #064E3B; padding: 3px 8px; border-radius: 10px;">● Active</span></td>
+        </tr>
+      </table>
+      <br>
+      <b><a href="https://github.com/AbdullahRasheed452/resume-rater" style="color: #F0F6FC; font-size: 15px;">ResumeIQ Evaluation System</a></b>
+      <br><br>
+      <p style="color: #C9D1D9; font-size: 13px; line-height: 1.4; margin: 0;">
+        Semantic candidate evaluation engine. Features structured schema extraction, automated feature engineering, vector embedding similarity mapping, and rank-based candidate scoring.
+      </p>
+      <br>
+      <code>Python</code> &nbsp; <code>PyTorch</code> &nbsp; <code>Feature Eng</code> &nbsp; <code>MLOps</code>
+      <br><br>
+      <a href="https://github.com/AbdullahRasheed452/resume-rater"><b>GitHub Repository →</b></a>
+    </td>
+  </tr>
+
+  <!-- ROW 2: Stochastic Battlefield & Warehouse Optimization -->
+  <tr>
+    <td width="50%" bgcolor="#161B22" valign="top" style="border: 1px solid #30363D; border-radius: 12px; padding: 18px;">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><span style="font-size: 10px; font-weight: 700; color: #38BDF8; background: #0C4A6E; padding: 3px 8px; border-radius: 10px;">GAME AI</span></td>
+          <td align="right"><span style="font-size: 10px; font-weight: 700; color: #34D399; background: #064E3B; padding: 3px 8px; border-radius: 10px;">● Completed</span></td>
+        </tr>
+      </table>
+      <br>
+      <b style="color: #F0F6FC; font-size: 15px;">Stochastic Battlefield Engine</b>
+      <br><br>
+      <p style="color: #C9D1D9; font-size: 13px; line-height: 1.4; margin: 0;">
+        Multi-agent stochastic decision environment. Implemented Expectiminimax search with Alpha-Beta pruning across asymmetric AI agents (Novice, Intermediate, Expert) with real-time DearPyGui telemetry.
+      </p>
+      <br>
+      <code>Python</code> &nbsp; <code>Expectiminimax</code> &nbsp; <code>Alpha-Beta</code> &nbsp; <code>DearPyGui</code>
+    </td>
+
+    <td width="50%" bgcolor="#161B22" valign="top" style="border: 1px solid #30363D; border-radius: 12px; padding: 18px;">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><span style="font-size: 10px; font-weight: 700; color: #38BDF8; background: #0C4A6E; padding: 3px 8px; border-radius: 10px;">EVOLUTIONARY COMPUTING</span></td>
+          <td align="right"><span style="font-size: 10px; font-weight: 700; color: #34D399; background: #064E3B; padding: 3px 8px; border-radius: 10px;">● Completed</span></td>
+        </tr>
+      </table>
+      <br>
+      <b style="color: #F0F6FC; font-size: 15px;">Genetic Warehouse Optimization</b>
+      <br><br>
+      <p style="color: #C9D1D9; font-size: 13px; line-height: 1.4; margin: 0;">
+        Genetic layout optimization algorithm applied to warehouse retrieval distance minimization. Benchmarked convergence rates across population variations and mutation probability curves.
+      </p>
+      <br>
+      <code>Python</code> &nbsp; <code>Genetic Algorithms</code> &nbsp; <code>Optimization</code>
+    </td>
+  </tr>
+
+  <!-- ROW 3: CureShare & Systems Showcase -->
+  <tr>
+    <td width="50%" bgcolor="#161B22" valign="top" style="border: 1px solid #30363D; border-radius: 12px; padding: 18px;">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><span style="font-size: 10px; font-weight: 700; color: #38BDF8; background: #0C4A6E; padding: 3px 8px; border-radius: 10px;">DESKTOP SYSTEMS</span></td>
+          <td align="right"><span style="font-size: 10px; font-weight: 700; color: #34D399; background: #064E3B; padding: 3px 8px; border-radius: 10px;">● Completed</span></td>
+        </tr>
+      </table>
+      <br>
+      <b style="color: #F0F6FC; font-size: 15px;">CureShare Redistribution Platform</b>
+      <br><br>
+      <p style="color: #C9D1D9; font-size: 13px; line-height: 1.4; margin: 0;">
+        Four-role Java desktop management application featuring FIFO auto-allocation, batch-level inventory tracking, expiry alerting, rider assignment, and distribution telemetry.
+      </p>
+      <br>
+      <code>Java</code> &nbsp; <code>Desktop Architecture</code> &nbsp; <code>Analytics</code>
+    </td>
+
+    <td width="50%" bgcolor="#161B22" valign="top" style="border: 1px solid #30363D; border-radius: 12px; padding: 18px;">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><span style="font-size: 10px; font-weight: 700; color: #38BDF8; background: #0C4A6E; padding: 3px 8px; border-radius: 10px;">C++ SYSTEMS</span></td>
+          <td align="right"><span style="font-size: 10px; font-weight: 700; color: #34D399; background: #064E3B; padding: 3px 8px; border-radius: 10px;">● Completed</span></td>
+        </tr>
+      </table>
+      <br>
+      <b><a href="https://github.com/AbdullahRasheed452/Xonix" style="color: #F0F6FC; font-size: 15px;">Xonix Engine &amp; Game Boy Emulator</a></b>
+      <br><br>
+      <p style="color: #C9D1D9; font-size: 13px; line-height: 1.4; margin: 0;">
+        C++ systems engineering suite integrating Min-Heap leaderboards, priority-queue matchmaking, hash-table social graphs, AVL-tree inventories, and OOP encapsulation models.
+      </p>
+      <br>
+      <code>C++</code> &nbsp; <code>Data Structures</code> &nbsp; <code>OOP Architecture</code>
+      <br><br>
+      <a href="https://github.com/AbdullahRasheed452/Xonix"><b>GitHub Repository →</b></a>
+    </td>
+  </tr>
+
+</table>
 
 <br>
 

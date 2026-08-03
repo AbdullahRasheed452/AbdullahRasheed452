@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="100%">
+  <defs>
+    <linearGradient id="riq-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0369A1" stop-opacity="0.25" />
+    </linearGradient>
+    <linearGradient id="riq-card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .rt-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #F0F6FC; }
+    .rt-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 11px; fill: #94A3B8; }
+    .rt-highlight { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 12px; fill: #7DD3FC; }
+  </style>
+
+  <rect width="800" height="180" rx="12" fill="url(#riq-bg)" stroke="#334155" stroke-width="1.5" />
+
+  <text x="30" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" fill="#38BDF8" letter-spacing="0.5">RESUMEIQ SEMANTIC EVALUATION PIPELINE</text>
+
+  <!-- Step 1 -->
+  <g transform="translate(30, 52)">
+    <rect width="220" height="100" rx="8" fill="url(#riq-card)" stroke="#1E293B" stroke-width="1.5" />
+    <text x="20" y="32" class="rt-title">Document Parsing</text>
+    <text x="20" y="54" class="rt-sub">Schema Extraction</text>
+    <text x="20" y="76" class="rt-highlight">Text Normalization</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M260 102 h25" stroke="#38BDF8" stroke-width="2" />
+  <polygon points="285,102 277,97 277,107" fill="#38BDF8" />
+
+  <!-- Step 2 -->
+  <g transform="translate(290, 52)">
+    <rect width="220" height="100" rx="8" fill="url(#riq-card)" stroke="#0284C7" stroke-width="1.5" />
+    <text x="20" y="32" class="rt-title">Feature Engineering</text>
+    <text x="20" y="54" class="rt-sub">Vector Embeddings</text>
+    <text x="20" y="76" class="rt-highlight">Skill Distance Mapping</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M520 102 h25" stroke="#38BDF8" stroke-width="2" />
+  <polygon points="545,102 537,97 537,107" fill="#38BDF8" />
+
+  <!-- Step 3 -->
+  <g transform="translate(550, 52)">
+    <rect width="220" height="100" rx="8" fill="url(#riq-card)" stroke="#38BDF8" stroke-width="1.5" />
+    <text x="20" y="32" class="rt-title">Semantic Ranker</text>
+    <text x="20" y="54" class="rt-sub">Scoring Matrix</text>
+    <text x="20" y="76" class="rt-highlight">Match Percentage</text>
+  </g>
+</svg>
