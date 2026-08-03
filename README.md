@@ -165,15 +165,15 @@ Final-year Computer Science student at FAST NUCES, Islamabad.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=default&hide_border=true&langs_count=6">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=default&hide_border=true&langs_count=6">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </picture>
 
 <br><br>
