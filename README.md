@@ -19,7 +19,9 @@
 
 <div align="center">
 
-# Abdullah Rasheed
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=160&section=header&text=Abdullah%20Rasheed&fontSize=36&fontColor=58A6FF&fontAlignY=38" alt="Header Banner" />
+
+<br>
 
 **ML Engineering Intern @ [FlyRank AI](https://www.flyrank.com) &nbsp;·&nbsp; CS @ [FAST NUCES](https://www.nu.edu.pk)**
 
