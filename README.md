@@ -161,15 +161,15 @@ Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.f
 <div align="center">
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
   &nbsp;
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800&v=1" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRasheed452&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRasheed452&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Contribution Graph" />
 </p>
 
 </div>
