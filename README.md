@@ -110,6 +110,17 @@ Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.f
 <br>
 
 
+<!-- ═══════════════════ ENGINEERING EVOLUTION ═══════════════════ -->
+
+## Engineering Evolution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/main/assets/timeline.svg" width="100%" alt="Engineering Evolution Timeline" />
+</div>
+
+<br>
+
+
 <!-- ═══════════════════ TECHNICAL SKILLS ═══════════════════
 
   Icons via skillicons.dev (actively maintained).
