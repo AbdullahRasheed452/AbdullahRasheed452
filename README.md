@@ -126,11 +126,9 @@ Final-year Computer Science student at FAST NUCES, Islamabad.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,sklearn,flask,mysql,git,github,vscode&theme=dark&perline=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,sklearn,flask,mysql,git,github,vscode&theme=light&perline=5">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,sklearn,flask,mysql,git,github,vscode&theme=dark&perline=5" alt="Tech Stack" />
-</picture>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,pytorch,flask,mysql,git,github,vscode&theme=dark&perline=6" alt="Technical Skills" />
+</a>
 
 <br><br>
 
@@ -149,16 +147,10 @@ Final-year Computer Science student at FAST NUCES, Islamabad.
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════
 
-  All widgets use <picture> tags for dark/light theme support.
-  
-  Stats + Languages are displayed side-by-side on desktop.
+  Stats + Languages are displayed side-by-side.
   Activity graph spans full width below.
   
   Theme: tokyonight (stats), tokyo-night (activity graph)
-  
-  If images break due to rate limiting on the shared Vercel
-  instance, consider self-hosting:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
   
 -->
 
@@ -166,25 +158,17 @@ Final-year Computer Science student at FAST NUCES, Islamabad.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
+<p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdullahRasheed452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=default&hide_border=true&langs_count=6">
+  &nbsp;
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahRasheed452&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</picture>
+</p>
 
-<br><br>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRasheed452&theme=tokyo-night&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRasheed452&theme=github-light&hide_border=true&area=true">
+<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRasheed452&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</picture>
+</p>
 
 </div>
 
@@ -196,26 +180,13 @@ Final-year Computer Science student at FAST NUCES, Islamabad.
   Generated automatically by GitHub Actions.
   Workflow: .github/workflows/snake.yml
   
-  SETUP (one-time):
-    1. Push this README and the workflow file to your profile repo
-    2. Go to repo Settings → Actions → General
-    3. Under "Workflow permissions", select "Read and write permissions"
-    4. Save, then go to Actions tab → "Generate Snake" → Run workflow
-    5. Wait for the action to complete (~1-2 minutes)
-    6. The snake SVGs will appear on the 'output' branch
-  
-  After setup, the snake updates daily at midnight UTC.
-  If the images below show as broken, the action hasn't run yet.
-  
 -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/output/github-snake.svg">
-  <img alt="Contribution snake — a snake eating your GitHub contributions" src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/output/github-snake-dark.svg" />
+</p>
 
 </div>
 
