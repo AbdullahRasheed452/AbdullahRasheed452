@@ -115,7 +115,7 @@ Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.f
 ## Project Timeline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/main/assets/timeline.svg" width="100%" alt="Project Timeline" />
+  <img src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/main/assets/timeline.svg?v=2" width="100%" alt="Project Timeline" />
 </div>
 
 <br>
