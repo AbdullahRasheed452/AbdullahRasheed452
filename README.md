@@ -201,14 +201,14 @@ Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.f
 
 <div align="center">
   <a href="mailto:abdullah.rasheed452@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdullah.rasheed452%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=161B22" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/abdullah-rasheed452">
-    <img src="https://img.shields.io/badge/LinkedIn-abdullah--rasheed452-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/AbdullahRasheed452">
-    <img src="https://img.shields.io/badge/GitHub-AbdullahRasheed452-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
