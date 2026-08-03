@@ -51,116 +51,50 @@ Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.f
 
 ## Featured Projects
 
-<!-- FLAGSHIP PROJECT HERO CARD: VoiceFlow AI -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td bgcolor="#161B22" align="left" valign="top">
+    <td width="50%" valign="top">
       <br>
-      &nbsp;&nbsp;<sub><b>FLAGSHIP SHOWCASE</b> &nbsp;|&nbsp; <b>Speech AI &amp; Real-Time NLP</b> &nbsp;|&nbsp; <code>● Active</code></sub>
+      <b>VoiceFlow AI</b> &ensp;<sub>NLP · Speech</sub>
       <br><br>
-      &nbsp;&nbsp;<b><font size="4" color="#F0F6FC">VoiceFlow AI — Speech-to-Speech Translation Engine</font></b>
+      Real-time speech-to-speech translation. Captures voice via Web Speech API, translates through an NLP backend, and outputs natural spoken audio using neural text-to-speech.
       <br><br>
-      &nbsp;&nbsp;Real-time end-to-end voice translation pipeline. Captures live speech via Web Speech ASR, processes contextual translation using a Flask NLP backend, and outputs natural spoken audio in the target language via neural TTS (gTTS).
+      <code>Python</code> <code>Flask</code> <code>Web Speech API</code> <code>gTTS</code>
       <br><br>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/AbdullahRasheed452/AbdullahRasheed452/main/assets/voiceflow-preview.svg?v=2" width="96%" alt="VoiceFlow AI Pipeline" />
-      </div>
+    </td>
+    <td width="50%" valign="top">
       <br>
-      &nbsp;&nbsp;<code>Python</code> &nbsp; <code>Flask</code> &nbsp; <code>Web Speech ASR</code> &nbsp; <code>gTTS</code> &nbsp; <code>NLP</code>
+      <a href="https://github.com/AbdullahRasheed452/Intelligent-Reading-Comprehension-Quiz-Generator"><b>Quiz Generation System</b></a> &ensp;<sub>Classical ML</sub>
+      <br><br>
+      Trained Logistic Regression, SVM, and Naive Bayes on TF-IDF vectors from the RACE dataset. Cosine-similarity distractor pipeline deployed as a Streamlit app with analytics.
+      <br><br>
+      <code>Python</code> <code>scikit-learn</code> <code>TF-IDF</code> <code>Streamlit</code>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <b>Stochastic Battlefield</b> &ensp;<sub>Game AI</sub>
+      <br><br>
+      Multi-agent stochastic game with three asymmetric AI agents using configurable-depth Expectiminimax search and Alpha-Beta pruning. Real-time benchmarking via DearPyGui.
+      <br><br>
+      <code>Python</code> <code>Expectiminimax</code> <code>Alpha-Beta Pruning</code> <code>DearPyGui</code>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <b>Warehouse Optimization</b> &ensp;<sub>Evolutionary Computing</sub>
+      <br><br>
+      Genetic algorithm for warehouse layout optimization targeting minimal retrieval distance. Benchmarked convergence across population sizes and mutation rates.
+      <br><br>
+      <code>Python</code> <code>Genetic Algorithms</code>
       <br><br>
     </td>
   </tr>
 </table>
 
-<br>
-
-<!-- DYNAMIC GITHUB REPOSITORY CARDS (Public Projects) -->
-<div align="center">
-  <a href="https://github.com/AbdullahRasheed452/Intelligent-Reading-Comprehension-Quiz-Generator">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AbdullahRasheed452&repo=Intelligent-Reading-Comprehension-Quiz-Generator&theme=tokyonight&hide_border=true" height="150" alt="Quiz Generator Repository" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AbdullahRasheed452/resume-rater">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AbdullahRasheed452&repo=resume-rater&theme=tokyonight&hide_border=true" height="150" alt="ResumeIQ Repository" />
-  </a>
-</div>
-
-<br>
-
-<!-- FEATURED SYSTEMS & AI PROJECTS -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td bgcolor="#161B22" align="left" valign="top">
-      <br>
-      &nbsp;&nbsp;<sub><b>GAME AI &amp; MULTI-AGENT</b> &nbsp;|&nbsp; <code>● Completed</code></sub>
-      <br><br>
-      &nbsp;&nbsp;<b><font size="3" color="#F0F6FC">Stochastic Battlefield Engine</font></b>
-      <br><br>
-      &nbsp;&nbsp;Multi-agent stochastic decision environment. Implemented Expectiminimax search with Alpha-Beta pruning across asymmetric AI agents (Novice, Intermediate, Expert) with real-time DearPyGui telemetry.
-      <br><br>
-      &nbsp;&nbsp;<code>Python</code> &nbsp; <code>Expectiminimax</code> &nbsp; <code>Alpha-Beta Pruning</code> &nbsp; <code>DearPyGui</code>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td bgcolor="#161B22" align="left" valign="top">
-      <br>
-      &nbsp;&nbsp;<sub><b>EVOLUTIONARY COMPUTING</b> &nbsp;|&nbsp; <code>● Completed</code></sub>
-      <br><br>
-      &nbsp;&nbsp;<b><font size="3" color="#F0F6FC">Genetic Warehouse Layout Optimization</font></b>
-      <br><br>
-      &nbsp;&nbsp;Applied genetic algorithms (selection, crossover, mutation) to warehouse layout optimization targeting minimal item retrieval distances. Benchmarked convergence rates across population variations and mutation probability curves.
-      <br><br>
-      &nbsp;&nbsp;<code>Python</code> &nbsp; <code>Genetic Algorithms</code> &nbsp; <code>Optimization</code> &nbsp; <code>Data Analytics</code>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td bgcolor="#161B22" align="left" valign="top">
-      <br>
-      &nbsp;&nbsp;<sub><b>DESKTOP SYSTEMS</b> &nbsp;|&nbsp; <code>● Completed</code></sub>
-      <br><br>
-      &nbsp;&nbsp;<b><font size="3" color="#F0F6FC">CureShare Medicine Redistribution System</font></b>
-      <br><br>
-      &nbsp;&nbsp;Four-role Java desktop management application featuring FIFO auto-allocation, batch-level inventory tracking, expiry alerting, rider assignment, and distribution telemetry.
-      <br><br>
-      &nbsp;&nbsp;<code>Java</code> &nbsp; <code>Desktop Architecture</code> &nbsp; <code>Relational Schema</code> &nbsp; <code>Analytics</code>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td bgcolor="#161B22" align="left" valign="top">
-      <br>
-      &nbsp;&nbsp;<sub><b>C++ SYSTEMS &amp; EMULATION</b> &nbsp;|&nbsp; <code>● Completed</code></sub>
-      <br><br>
-      &nbsp;&nbsp;<b><a href="https://github.com/AbdullahRasheed452/Xonix"><font size="3" color="#F0F6FC">Xonix Engine &amp; Game Boy Emulator Suite</font></a></b>
-      <br><br>
-      &nbsp;&nbsp;High-performance C++ systems engineering projects. Integrates Min-Heap leaderboards, priority-queue matchmaking, hash-table social graphs, AVL-tree inventories, and OOP encapsulation models.
-      <br><br>
-      &nbsp;&nbsp;<code>C++</code> &nbsp; <code>Data Structures</code> &nbsp; <code>OOP Architecture</code> &nbsp; <code>File I/O</code>
-      <br><br>
-      &nbsp;&nbsp;<sub><a href="https://github.com/AbdullahRasheed452/Xonix">View Xonix Repository →</a></sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<br>
+> <sub>See all repositories → <a href="https://github.com/AbdullahRasheed452?tab=repositories">github.com/AbdullahRasheed452</a></sub>
 
 <br>
 
