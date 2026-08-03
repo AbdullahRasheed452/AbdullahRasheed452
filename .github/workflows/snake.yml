@@ -1,0 +1,60 @@
+# ┌────────────────────────────────────────────────────┐
+# │  Contribution Snake Generator                       │
+# │                                                      │
+# │  Generates an animated SVG of your GitHub           │
+# │  contributions being eaten by a snake.              │
+# │                                                      │
+# │  Output: SVGs pushed to the 'output' branch         │
+# │  Schedule: Daily at midnight UTC                     │
+# │  Manual trigger: Actions tab → Run workflow          │
+# │                                                      │
+# │  SETUP:                                              │
+# │    1. Go to repo Settings → Actions → General       │
+# │    2. Scroll to "Workflow permissions"               │
+# │    3. Select "Read and write permissions"            │
+# │    4. Click Save                                     │
+# │    5. Run this workflow manually once                │
+# └────────────────────────────────────────────────────┘
+
+name: Generate Snake
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Run on push to main (generates snake on first setup)
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push SVGs to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
