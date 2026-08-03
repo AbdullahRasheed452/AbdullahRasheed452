@@ -28,7 +28,7 @@
 <br>
 
 <a href="https://github.com/AbdullahRasheed452">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&height=25&lines=ml+systems+%C2%B7+nlp+%C2%B7+speech+processing;python+%C2%B7+scikit-learn+%C2%B7+pytorch" alt="Focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=440&height=25&lines=ml+systems+%C2%B7+classical+ml+%C2%B7+game+ai;python+%C2%B7+scikit-learn+%C2%B7+pytorch" alt="Focus areas" />
 </a>
 
 </div>
@@ -40,9 +40,9 @@
 
 ## About
 
-I build machine learning systems — classification pipelines, NLP tools, and speech processing applications.
-Currently interning as an ML Engineer at [FlyRank AI](https://www.flyrank.com), working across data preprocessing, feature engineering, and model evaluation.
-Final-year Computer Science student at FAST NUCES, Islamabad.
+I am a Computer Science student at FAST NUCES, Islamabad, specializing in artificial intelligence and machine learning engineering. My work focuses on building practical ML systems, ranging from classical classification pipelines and feature engineering to multi-agent decision environments and real-time AI applications.
+
+Currently interning as a Machine Learning Engineer at [FlyRank AI](https://www.flyrank.com), I contribute to data preprocessing, model evaluation, and Python pipeline development. I am particularly focused on turning core algorithms into structured, reproducible software.
 
 <br>
 
